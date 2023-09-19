@@ -1,1 +1,2 @@
 This is a sample file
+I made a change in the sample.txt file via feature branch
